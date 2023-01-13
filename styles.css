@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+table,th,td{
+	border:2px solid black;
+}
+table{
+	border-collapse: collapse;
+	width: 70%;
+}
+th{
+	background-color: aquamarine;
+}
+td:nth-child(odd){
+	background-color: bisque;
+}
+td:nth-child(1){
+	background-color:azure;
+}
