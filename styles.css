@@ -16,3 +16,9 @@ td:nth-child(odd){
 td:nth-child(1){
 	background-color:azure;
 }
+table th {
+	text-align: start;
+}
+table td {
+	text-align: end;
+}
