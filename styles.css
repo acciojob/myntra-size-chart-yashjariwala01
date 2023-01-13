@@ -22,3 +22,7 @@ table th {
 table td {
 	text-align: end;
 }
+td:nth-child(1){
+	background-color:azure;
+	text-align: start;
+}
